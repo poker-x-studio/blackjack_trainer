@@ -1,9 +1,9 @@
 # 项目说明
-- 百家乐下注助手
+- Blackjack训练
 - 工作室网站 [www.poker-x-studio.com](www.poker-x-studio.com)
 
 ## 一 功能说明:
-  - 横屏，ui设计分辨率 1920*1080
+  - 竖屏，ui设计分辨率 1080*1920
 
 
 ## 二 技术栈
@@ -11,7 +11,7 @@
     - Cocos Creator 2.4.12 项目
 
 ## 三 github commit之间比较
- https://github.com/poker-x-studio/baccarat_helper/compare/49c83f4..1abff3f
+ https://github.com/poker-x-studio/blackjack_trainer/compare/49c83f4..1abff3f
 
 
  ## 四 编码规范
@@ -36,7 +36,7 @@
  - 4.4 常量 (如 PI) 为大写 (UPPERCASE )
   ```
   //测试tag
-  TAG: "baccarat_helper,JS project,",
+  TAG: "blackjack_trainer,JS project,",
   ```
  - 4.5 CocosCreator编辑器中规范
    - view 一般是 canvas 下一级的界面元素,通常会铺满屏幕
